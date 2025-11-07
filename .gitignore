@@ -1,0 +1,19 @@
+# ---------- Environment & Secrets ----------
+.env
+*.env
+
+# ---------- System / Editor Files ----------
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# ---------- Logs & Archives ----------
+*.log
+*.zip
+*.tar
+*.gz
+
+# ---------- Cache or Uploads (if added later) ----------
+uploads/
+cache/
