@@ -30,7 +30,8 @@ $posts = $stmt->fetchAll();
 
 <section class="hero">
   <h1>Welcome to <span class="highlight">VanillaBlog</span></h1>
-  <p>Simple thoughts, clean design, and pure code — built without frameworks.</p>
+  <p>“Your story doesn’t need to be perfect — it just needs to be told.”</p>
+  <p>Write simply, think deeply, and let your words build worlds.</p>
 </section>
 
 <!--  SEARCH BAR  -->
