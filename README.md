@@ -1,5 +1,9 @@
 # Vanilla Blog (PHP + MySQL + HTML/CSS/JS)
 
+##  Live Demo
+You can view the live site here: [VanillaBlog on InfinityFree](https://vanillablog.infinityfreeapp.com)
+
+
 A minimal blog fulfilling the assignment requirements — **no frameworks**.
 
 ## Features
