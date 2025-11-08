@@ -275,4 +275,39 @@ hr {
   display: block;
 }
 
+/*   Footer styles  */
+.footer {
+  text-align: center;
+  padding: 20px 10px;
+  color: #ccc;
+  border-top: 1px solid var(--border);
+  margin-top: 40px;
+  background: var(--panel);
+}
+
+.footer-links {
+  margin-bottom: 8px;
+}
+
+.footer-links a {
+  color: var(--gold);
+  text-decoration: none;
+  margin: 0 6px;
+  transition: color 0.25s ease;
+}
+
+.footer-links a:hover {
+  text-decoration: underline;
+  color: #f5d66b;
+}
+
+.footer-meta {
+  color: #888;
+  font-size: 14px;
+}
+
+/* Smooth gold glow for hover */
+.footer-links a:hover {
+  text-shadow: 0 0 8px rgba(199, 160, 8, 0.6);
+}
 
